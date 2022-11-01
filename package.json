@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "echarts": "4.1.0",
-    "findup-sync": "^0.1.2",
+    "findup-sync": "^5.0.0",
     "react": "16.5.0",
     "react-dom": "16.5.0"
   },
